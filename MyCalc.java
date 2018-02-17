@@ -47,7 +47,7 @@ public class MyCalc extends Applet implements ActionListener,ItemListener,KeyLis
 		memoryTag.setForeground(Color.black);
 		l.setForeground(Color.green);
 		l.setForeground(Color.green);
-		ta=new TextArea("Bahaa Mourad\nGoergeElias\nSamer Al_Fakih\nBashar Mahasin\n-----------------------\n",8,17,TextArea.SCROLLBARS_VERTICAL_ONLY);
+		ta=new TextArea("No text\n-----------------------\n",8,17,TextArea.SCROLLBARS_VERTICAL_ONLY);
 		ta.setFont(new Font("Times Roman",Font.BOLD,12));
 		ta.setEditable(false);
 		deg = new CheckboxGroup();//the container of the checkboxs
